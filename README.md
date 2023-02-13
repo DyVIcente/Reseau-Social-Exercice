@@ -17,7 +17,7 @@
 <p align="center"> - Formik ( Formulaire )</p>
 <p align="center"> - Yup ( Validation Form )</p>
 
-Vous avez la possibilté de créer un compte, ajouter une image pour votre profil. Poster des photos, les liker. Ajouter des amis ou les supprimer. Voir une page feed, et une page profil. Voir les commentaires sur le posts. Un dark et light mode. Et tout est responsive. 
+Vous avez la possibilté de créer un compte, ajouter une image pour votre profil. Poster des photos, les liker. Ajouter des amis ou les supprimer. Voir une page feed, et une page profil. Voir les commentaires sur les posts. Un dark et light mode. Et tout est responsive. 
 
 <img src="https://user-images.githubusercontent.com/95346160/218506575-20011668-7881-45e7-9edb-9d49a94bb420.png" alt="image_camsocial" />
 <img src="https://user-images.githubusercontent.com/95346160/218506582-52451287-11fb-4ed1-8526-f50a81789017.png" alt="image_camsocial" />
